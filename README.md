@@ -1,4 +1,4 @@
-# 📱 Mini-App 4: Localizador com Google Maps + Room
+# 📱 Mini-App 4: Meus locais favoritos
 
 ## 🎯 Objetivo
 Introduzir o uso de **APIs externas (Google Maps)** e o **armazenamento local com Room**.
